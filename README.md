@@ -16,7 +16,7 @@ I am Desyatkov Sergey, previously known as Serriox (my old nickname). I am inter
 
 
 ## 🛠️ Tech Stack
-
+\
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height=64 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" height=64 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=64 />
