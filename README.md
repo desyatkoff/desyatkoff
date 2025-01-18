@@ -7,7 +7,7 @@
 It's just an \`About Me\` section to make my profile prettier :)
 
 Created: January 17, 2025\
-Updated: None
+Updated: January 18, 2025
 
 
 ## ⚡ Quick Bio
@@ -39,8 +39,14 @@ I am Desyatkov Sergey, previously known as Serriox (my old nickname). I am inter
 
 ## 📊 Some GitHub Info
 
-![](https://github-readme-stats.vercel.app/api?username=desyatkoff&custom_title=Account%20Stats&show=prs_merged,prs_merged_percentage&show_icons=true&icon_color=ffffff&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=desyatkoff&custom_title=Account%20Stats&show=prs_merged,prs_merged_percentage&total_commits=true&show_icons=true&icon_color=ffffff&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=desyatkoff&custom_title=Used%20Languages%20Stats&layout=donut&theme=dark)
+
+
+## 💬 Connect With Me
+
+- [Telegram (@desyatk_off)](https://t.me/desyatk_off)
+- [Reddit (u/desyatk_off)](https://www.reddit.com/user/desyatk_off)
 
 
 # 🔚 End
