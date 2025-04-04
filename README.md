@@ -2,17 +2,17 @@
 
 ## ⚡ • Quick Bio
 
-Hi all, I am Desyatkov Sergey, a school student from Russia. Interested in learning Python and making cool interesting things. Currently trying to get web development experience (Python + Flask). I have my own nice pet project - [Impressle](https://github.com/desyatkoff/impressle)! :)
+Hi all, I am Desyatkov Sergey, a school student from Russia. Interested in learning Linux, Python and making cool interesting things. I have my own nice pet project - [Impressle](https://github.com/desyatkoff/impressle)! :)
 
 
-## 🛠️ • Stuff Using
+## 🛠️ • Stuff
 
-* **Operating System**: Arch Linux
-* **Window Manager/Compositor**: Hyprland
-* **Terminal**: Alacritty
-* **Shell**: Zsh
-* **Code Editor**: Neovim
-* **Favorite Language**: Python
+* **Operating System ::** Arch Linux
+* **Shell ::** Zsh
+* **Window Compositor ::** Hyprland
+* **Terminal ::** Alacritty
+* **Code Editor ::** Neovim
+* **Favorite Language ::** Python
 
 
 ## 😎 • My Best Project
