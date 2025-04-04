@@ -23,5 +23,5 @@ Hi all, I am Desyatkov Sergey, a school student from Russia. Interested in learn
 
 ![](https://github-readme-stats.vercel.app/api?username=desyatkoff&custom_title=Account%20Stats&show=prs_merged,prs_merged_percentage&show_icons=true&icon_color=ffffff&theme=github_dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=desyatkoff&custom_title=Used%20Languages%20Stats&layout=donut&theme=github_dark&hide_border=true)
-![](https://github-profile-trophy.vercel.app/?username=desyatkoff&theme=darkhub)
+![](https://github-profile-trophy.vercel.app/?username=desyatkoff&no-frame=true&theme=darkhub)
 
