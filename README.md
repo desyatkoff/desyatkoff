@@ -7,17 +7,18 @@ Hi all, I am Desyatkov Sergey, a school student from Russia. Interested in learn
 
 ## 🛠️ • Stuff
 
-* **Operating System**   \> Arch Linux
-* **Shell**              \> Zsh
-* **Window Compositor**  \> Hyprland
-* **Terminal**           \> Alacritty
-* **Code Editor**        \> Neovim
-* **Favorite Language**  \> Python
+* **Operating System**.....Arch Linux
+* **Shell**................Zsh
+* **Window Compositor**....Hyprland
+* **Terminal**.............Alacritty
+* **Code Editor**..........Neovim
+* **Favorite Language**....Python
 
 
 ## 😎 • My Best Project
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=desyatkoff&repo=impressle&show_owner=true&icon_color=ffffff&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=desyatkoff&repo=impressle&show_owner=true&icon_color=ffffff&theme=github_dark)
+
 
 ## 📊 • Some GitHub Info
 
