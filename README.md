@@ -7,12 +7,12 @@ Hi all, I am Desyatkov Sergey, a school student from Russia. Interested in learn
 
 ## 🛠️ • Stuff
 
-* **Operating System**.....Arch Linux
-* **Shell**................Zsh
-* **Window Compositor**....Hyprland
-* **Terminal**.............Alacritty
-* **Code Editor**..........Neovim
-* **Favorite Language**....Python
+* **Operating System:** Arch Linux
+* **Shell:** Zsh
+* **Window Compositor:** Hyprland
+* **Terminal:** Alacritty
+* **Code Editor:** Neovim
+* **Favorite Language:** Python
 
 
 ## 😎 • My Best Project
