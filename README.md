@@ -10,7 +10,7 @@ Hi all, I am Desyatkov Sergey, a school student from Russia. Interested in Linux
 * **Operating System:** Arch Linux
 * **Shell:** Zsh
 * **Window Compositor:** Hyprland
-* **Terminal:** Alacritty
+* **Terminal:** Kitty
 * **Code Editor:** Neovim
 * **Favorite Language:** Python
 
