@@ -7,12 +7,12 @@ Hi all, I am Desyatkov Sergey, a school student from Russia. Interested in Linux
 
 ## 🛠️ • Stuff
 
-* **Operating System:** Arch Linux
-* **Shell:** Zsh
-* **Window Compositor:** Hyprland
-* **Terminal:** Kitty
-* **Code Editor:** Neovim
-* **Favorite Language:** Python
+* **Operating System:** [Arch Linux](https://archlinux.org)
+* **Shell:** [Zsh](https://www.zsh.org)
+* **Window Compositor:** [Hyprland](https://hyprland.org)
+* **Terminal:** [Kitty](https://sw.kovidgoyal.net/kitty)
+* **Code Editor:** [Helix](https://helix-editor.com)
+* **Favorite Language:** [Python](https://www.python.org)
 
 
 ## 📊 • Stats
