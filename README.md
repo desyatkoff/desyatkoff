@@ -12,7 +12,9 @@ Hi all, I am Desyatkov Sergey, a school student from Russia. Interested in Linux
 * **Window Compositor:** [Hyprland](https://hyprland.org)
 * **Terminal:** [Kitty](https://sw.kovidgoyal.net/kitty)
 * **Code Editor:** [Helix](https://helix-editor.com)
-* **Favorite Language:** [Python](https://www.python.org)
+* **Favorite Languages:**
+    + [Python](https://www.python.org) (main)
+    + [Rust](https://www.rust-lang.org) (secondary)
 
 
 ## 📊 • Stats
