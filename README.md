@@ -2,17 +2,7 @@
 
 ## ⚡ • Quick Bio
 
-Hi all, I am Desyatkov Sergey, a school student from Russia. Interested in Linux, Python, Rust and making cool interesting things. I have my own nice pet project - [Impressle](https://github.com/desyatkoff/impressle)! :)
-
-
-## 🛠️ • Stuff
-
-* Operating System: [Arch Linux](https://archlinux.org)
-* Window Compositor: [Hyprland](https://hyprland.org)
-* Shell: [Zsh](https://www.zsh.org)
-* Terminal: [Kitty](https://sw.kovidgoyal.net/kitty)
-* Text/Code Editors: [Helix](https://helix-editor.com), [Rsedit](https://github.com/desyatkoff/rsedit)
-* Favorite Languages: [Python](https://www.python.org), [Rust](https://www.rust-lang.org)
+Hi all, I am Desyatkov Sergey, a school student from Russia. Interested in Linux (I use Arch btw), Python, Rust and making cool interesting things. I have my own nice pet project - [Impressle](https://github.com/desyatkoff/impressle)! :)
 
 
 ## 📊 • Stats
