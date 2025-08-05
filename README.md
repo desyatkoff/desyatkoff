@@ -6,4 +6,5 @@ Hi everyone, I'm Sergey Desyatkov, a school student from Russia. Interested in G
     <img src="https://github-readme-stats.vercel.app/api?username=desyatkoff&custom_title=Account%20Info&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&icon_color=ffffff&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desyatkoff&custom_title=Languages%20Usage&layout=donut&langs_count=8&theme=github_dark&hide_border=true" />
     <img src="https://github-profile-trophy.vercel.app/?username=desyatkoff&no-frame=true&theme=darkhub" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=desyatkoff&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&card_width=1000&card_height=200" />
 </p>
