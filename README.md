@@ -1,10 +1,20 @@
 # Hello World!
 
-Hi everyone, I'm Sergey Desyatkov, a school student from Russia. Interested in GNU/Linux ([I use Arch btw](https://github.com/desyatkoff/dotfiles)), Python, Rust and making cool interesting things. Started my coding journey in 2021 just for myself and now making public projects on GitHub, and I totally can say that this is the most fun and interesting hobby! :)
+I'm **Sergey Desyatkov**, also known as *desyatkoff* (previously: *Serriox*, *Serrr* - my really old nicknames)
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=desyatkoff&custom_title=Account%20Info&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&icon_color=ffffff&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desyatkoff&custom_title=Languages%20Usage&layout=donut&langs_count=8&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=desyatkoff&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&card_width=1000&card_height=200" />
-    <img src="https://github-profile-trophy.vercel.app/?username=desyatkoff&no-frame=true&theme=darkhub" />
-</p>
+I'm interested in...
+* Linux & Open Source
+* Programming in Python and Rust
+* Indie game development (Godot)
+
+I code little programs for myself but also share them on GitHub in case someone would find them useful. Started my coding journey back in 2021
+
+Also, I want to become better as a solo indie game developer - games are fun and I like to create things, so I decided to make videogames as well. You can visit my itch.io page if you are interested
+
+Links:
+* My personal website - https://desyatkoff.github.io
+* My email - sergeydesyatkov@proton.me
+* My Discord - https://discord.com/users/494858439663812608
+* My Telegram - https://t.me/desyatkoff
+* My YouTube - https://www.youtube.com/@desyatkoff
+* My itch.io - https://desyatkoff.itch.io
